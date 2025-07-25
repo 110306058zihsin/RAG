@@ -134,5 +134,5 @@ sequenceDiagram
 ```
 
 ## 六、測試範例
-![image](../figs/webui.png)
+![image](./webui.png)
 
